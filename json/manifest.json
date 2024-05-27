@@ -1,6 +1,6 @@
 {
-  "short_name": "ROTY BROI",
-  "name": "The ROTY BROI - NFTs",
+  "short_name": "ROTY BASE",
+  "name": "ROTY BASE dETH - NFTs",
   "icons": [
     {
       "src": "/icon/safari-pinned-tab.svg",
@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "description": "The ROTY BROI is a collection of 1047 unique generative and handpicked NFTs, that live on the Polygon blockchain.",
+  "description": "ROTY BASE dETH is a collection of 7474 unique curated NFTs artworks for skateboard decks, that live on the BASE blockchain.",
   "screenshots": [
     {
       "src": "/img/asset-2-thumbnail-720.png",
